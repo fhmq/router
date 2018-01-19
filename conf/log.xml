@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<seelog> 
+  <outputs formatid="main"> 
+  <filter levels="info,debug,error,critical">
+        <rollingfile type="size" filename="./log/router.log" maxsize="102400000" maxrolls="3650"/>
+  </filter>
+  <console/>
+  </outputs>  
+  <formats> 
+    <!--format id="main" format="Time:%Date %Time%tfile:%File%tlevel:%LEVEL%t%Msg%n"/--> 
+    <format id="main" format="%Date %Time%t%LEVEL%t%File%t:%Msg%n"/> 
+  </formats> 
+</seelog>

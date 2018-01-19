@@ -1,0 +1,180 @@
+2018-01-18 14:26:55	INFO	server.go	:start listener on 0.0.0.0:9888
+2018-01-18 15:46:44	INFO	server.go	:start listener on 0.0.0.0:9888
+2018-01-18 15:51:19	INFO	server.go	:receive conn from client , clientID = e1fd52585bfff390b9cd104825b1c6c9 keepAlive: 60
+2018-01-18 15:51:19	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"0800c37588ce9f9403a5936225ac2538","brokerUrl":"127.0.0.1:1993"}   brokerID = e1fd52585bfff390b9cd104825b1c6c9
+2018-01-18 15:51:40	ERROR	client.go	:read packet err: EOF   brokerID = e1fd52585bfff390b9cd104825b1c6c9
+2018-01-18 15:51:40	INFO	client.go	:client close with brokerID = e1fd52585bfff390b9cd104825b1c6c9
+2018-01-18 15:51:47	INFO	server.go	:receive conn from client , clientID = 6c8a694d6e57b4666a8b66939eedd3e9 keepAlive: 60
+2018-01-18 15:51:47	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"cb5e5dc3ff77dd9e3c6e3741ce56250f","brokerUrl":"127.0.0.1:1993"}   brokerID = 6c8a694d6e57b4666a8b66939eedd3e9
+2018-01-18 15:53:31	INFO	server.go	:start listener on 0.0.0.0:9888
+2018-01-18 15:54:29	INFO	server.go	:receive conn from client , clientID = 6828ffb5927374ecc87e8a091c807f59 keepAlive: 60
+2018-01-18 15:54:29	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"e56d57fb8dbf6b54331246fdcd9a462a","brokerUrl":"127.0.0.1:1993"}   brokerID = 6828ffb5927374ecc87e8a091c807f59
+2018-01-18 15:58:36	INFO	server.go	:start listener on 0.0.0.0:9888
+2018-01-18 15:58:40	INFO	server.go	:receive conn from client , clientID = 618ec05d2f7cfd36aeb92f10338b7d57 keepAlive: 60
+2018-01-18 15:58:40	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"3dd6e513799d670e23283f77c0d144c6","brokerUrl":"127.0.0.1:1993"}   brokerID = 618ec05d2f7cfd36aeb92f10338b7d57
+2018-01-18 16:00:30	ERROR	client.go	:read packet err: EOF   brokerID = 618ec05d2f7cfd36aeb92f10338b7d57
+2018-01-18 16:00:30	INFO	client.go	:client close with brokerID = 618ec05d2f7cfd36aeb92f10338b7d57
+2018-01-18 16:02:06	INFO	server.go	:receive conn from client , clientID = 34ead463cd27cd09b50b729ffb8f5c65 keepAlive: 60
+2018-01-18 16:02:06	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"33b247efe1ab7fb30cc39f42f2942a9a","brokerUrl":"127.0.0.1:1993"}   brokerID = 34ead463cd27cd09b50b729ffb8f5c65
+2018-01-18 16:02:48	ERROR	client.go	:read packet err: EOF   brokerID = 34ead463cd27cd09b50b729ffb8f5c65
+2018-01-18 16:02:48	INFO	client.go	:client close with brokerID = 34ead463cd27cd09b50b729ffb8f5c65
+2018-01-18 16:02:54	INFO	server.go	:receive conn from client , clientID = dc9ed9955817a8e035d145082a14a6b1 keepAlive: 60
+2018-01-18 16:02:54	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"2da8a452c4185904ab3738c7e96f40fe","brokerUrl":"127.0.0.1:1993"}   brokerID = dc9ed9955817a8e035d145082a14a6b1
+2018-01-18 16:03:13	ERROR	client.go	:read packet err: EOF   brokerID = dc9ed9955817a8e035d145082a14a6b1
+2018-01-18 16:03:13	INFO	client.go	:client close with brokerID = dc9ed9955817a8e035d145082a14a6b1
+2018-01-18 16:07:14	INFO	server.go	:start listener on 0.0.0.0:9888
+2018-01-18 16:07:19	INFO	server.go	:receive conn from client , clientID = 02e619ebab45491dd4826b669dbc2634 keepAlive: 60
+2018-01-18 16:07:20	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"ec4b75e06f8fb363f9bfc9c95889a961","brokerUrl":"127.0.0.1:1993"}   brokerID = 02e619ebab45491dd4826b669dbc2634
+2018-01-18 16:07:30	ERROR	client.go	:read packet err: EOF   brokerID = 02e619ebab45491dd4826b669dbc2634
+2018-01-18 16:07:30	INFO	client.go	:client close with brokerID = 02e619ebab45491dd4826b669dbc2634
+2018-01-18 16:08:27	INFO	server.go	:receive conn from client , clientID = 5e29e1dcbec29148c531afd74098757b keepAlive: 60
+2018-01-18 16:08:27	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"0f465e98891f567843e0e1ebe7f51b8e","brokerUrl":"127.0.0.1:1993"}   brokerID = 5e29e1dcbec29148c531afd74098757b
+2018-01-18 16:08:44	ERROR	client.go	:read packet err: EOF   brokerID = 5e29e1dcbec29148c531afd74098757b
+2018-01-18 16:08:44	INFO	client.go	:client close with brokerID = 5e29e1dcbec29148c531afd74098757b
+2018-01-18 16:08:46	INFO	server.go	:receive conn from client , clientID = 27d2a22e0766af9bf2849a242dddc48e keepAlive: 60
+2018-01-18 16:08:46	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"61fa69b8c6c003b5560b911f69c10ca5","brokerUrl":"127.0.0.1:1993"}   brokerID = 27d2a22e0766af9bf2849a242dddc48e
+2018-01-18 16:10:23	ERROR	client.go	:read packet err: EOF   brokerID = 27d2a22e0766af9bf2849a242dddc48e
+2018-01-18 16:10:23	INFO	client.go	:client close with brokerID = 27d2a22e0766af9bf2849a242dddc48e
+2018-01-18 16:10:47	INFO	server.go	:start listener on 0.0.0.0:9888
+2018-01-18 16:10:50	INFO	server.go	:receive conn from client , clientID = 13790b21dabb14feac1402d7be0a1270 keepAlive: 60
+2018-01-18 16:10:50	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"c1ea45c9d96e41d12d18da0077823bdb","brokerUrl":"127.0.0.1:1993"}   brokerID = 13790b21dabb14feac1402d7be0a1270
+2018-01-18 16:10:52	ERROR	client.go	:read packet err: EOF   brokerID = 13790b21dabb14feac1402d7be0a1270
+2018-01-18 16:10:52	INFO	client.go	:client close with brokerID = 13790b21dabb14feac1402d7be0a1270
+2018-01-18 16:11:37	INFO	server.go	:start listener on 0.0.0.0:9888
+2018-01-18 16:11:41	INFO	server.go	:receive conn from client , clientID = 790c7835f35e08c99b5c0b00440af8ba keepAlive: 60
+2018-01-18 16:11:41	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"42682a8d6cceea7392a17d078a7005eb","brokerUrl":"127.0.0.1:1993"}   brokerID = 790c7835f35e08c99b5c0b00440af8ba
+2018-01-18 16:11:53	ERROR	client.go	:read packet err: EOF   brokerID = 790c7835f35e08c99b5c0b00440af8ba
+2018-01-18 16:11:53	INFO	client.go	:client close with brokerID = 790c7835f35e08c99b5c0b00440af8ba
+2018-01-18 16:11:53	INFO	client.go	:client close remove 790c7835f35e08c99b5c0b00440af8ba
+2018-01-18 16:13:21	INFO	server.go	:start listener on 0.0.0.0:9888
+2018-01-18 16:13:28	INFO	server.go	:receive conn from client , clientID = 18e94f39f169250532b011e9fb9753d6 keepAlive: 60
+2018-01-18 16:13:28	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"18e94f39f169250532b011e9fb9753d6","brokerUrl":"127.0.0.1:1993"}   brokerID = 18e94f39f169250532b011e9fb9753d6
+2018-01-18 16:13:32	ERROR	client.go	:read packet err: EOF   brokerID = 18e94f39f169250532b011e9fb9753d6
+2018-01-18 16:13:32	INFO	client.go	:client close with brokerID = 18e94f39f169250532b011e9fb9753d6
+2018-01-18 16:13:32	INFO	client.go	:client close remove 18e94f39f169250532b011e9fb9753d6
+2018-01-18 16:13:39	INFO	server.go	:receive conn from client , clientID = 6f5f18be3a7b7d0ae5991fe3636d0db3 keepAlive: 60
+2018-01-18 16:13:39	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"6f5f18be3a7b7d0ae5991fe3636d0db3","brokerUrl":"127.0.0.1:1993"}   brokerID = 6f5f18be3a7b7d0ae5991fe3636d0db3
+2018-01-18 16:15:15	ERROR	client.go	:read packet err: EOF   brokerID = 6f5f18be3a7b7d0ae5991fe3636d0db3
+2018-01-18 16:15:15	INFO	client.go	:client close with brokerID = 6f5f18be3a7b7d0ae5991fe3636d0db3
+2018-01-18 16:15:15	INFO	client.go	:client close remove 6f5f18be3a7b7d0ae5991fe3636d0db3
+2018-01-18 16:15:23	INFO	server.go	:start listener on 0.0.0.0:9888
+2018-01-18 16:15:39	INFO	server.go	:receive conn from client , clientID = 6fd37978a4e104267cae95d6bbd2a047 keepAlive: 60
+2018-01-18 16:15:39	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"6fd37978a4e104267cae95d6bbd2a047","brokerUrl":"127.0.0.1:1993"}   brokerID = 6fd37978a4e104267cae95d6bbd2a047
+2018-01-18 16:15:53	ERROR	client.go	:read packet err: EOF   brokerID = 6fd37978a4e104267cae95d6bbd2a047
+2018-01-18 16:15:53	INFO	client.go	:client close with brokerID = 6fd37978a4e104267cae95d6bbd2a047
+2018-01-18 16:15:53	INFO	client.go	:client close remove 6fd37978a4e104267cae95d6bbd2a047
+2018-01-18 16:16:29	INFO	server.go	:receive conn from client , clientID = 7536f7423e4193d5aeb5ead222dc5a73 keepAlive: 60
+2018-01-18 16:16:29	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"7536f7423e4193d5aeb5ead222dc5a73","brokerUrl":"127.0.0.1:1993"}   brokerID = 7536f7423e4193d5aeb5ead222dc5a73
+2018-01-18 16:17:12	INFO	server.go	:receive conn from client , clientID = 7074331e30c57fe3a93413367f9a9951 keepAlive: 60
+2018-01-18 16:17:12	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"7074331e30c57fe3a93413367f9a9951","brokerUrl":"127.0.0.1:1994"}   brokerID = 7074331e30c57fe3a93413367f9a9951
+2018-01-18 16:22:07	INFO	server.go	:receive conn from client , clientID = 5c3338c608e2f25dba49777d16235b88 keepAlive: 60
+2018-01-18 16:22:07	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"5c3338c608e2f25dba49777d16235b88","brokerUrl":"127.0.0.1:1995"}   brokerID = 5c3338c608e2f25dba49777d16235b88
+2018-01-18 16:22:38	ERROR	client.go	:read packet err: EOF   brokerID = 5c3338c608e2f25dba49777d16235b88
+2018-01-18 16:22:38	INFO	client.go	:client close with brokerID = 5c3338c608e2f25dba49777d16235b88
+2018-01-18 16:22:38	INFO	client.go	:client close remove 5c3338c608e2f25dba49777d16235b88
+2018-01-18 16:22:38	ERROR	client.go	:read packet err: EOF   brokerID = 7074331e30c57fe3a93413367f9a9951
+2018-01-18 16:22:38	INFO	client.go	:client close with brokerID = 7074331e30c57fe3a93413367f9a9951
+2018-01-18 16:22:38	INFO	client.go	:client close remove 7074331e30c57fe3a93413367f9a9951
+2018-01-18 16:23:58	ERROR	client.go	:read packet err: EOF   brokerID = 7536f7423e4193d5aeb5ead222dc5a73
+2018-01-18 16:23:58	INFO	client.go	:client close with brokerID = 7536f7423e4193d5aeb5ead222dc5a73
+2018-01-18 16:23:58	INFO	client.go	:client close remove 7536f7423e4193d5aeb5ead222dc5a73
+2018-01-18 16:25:14	INFO	server.go	:receive conn from client , clientID = 33b757f8ba1d0ce0220dead8550af217 keepAlive: 60
+2018-01-18 16:25:14	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"33b757f8ba1d0ce0220dead8550af217","brokerUrl":"127.0.0.1:1993"}   brokerID = 33b757f8ba1d0ce0220dead8550af217
+2018-01-18 16:25:33	INFO	server.go	:receive conn from client , clientID = 22061dbb68ae427d479669515f8e5106 keepAlive: 60
+2018-01-18 16:25:33	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"22061dbb68ae427d479669515f8e5106","brokerUrl":"127.0.0.1:1994"}   brokerID = 22061dbb68ae427d479669515f8e5106
+2018-01-18 16:25:51	INFO	server.go	:receive conn from client , clientID = 943486e944df0bd2d23b16292149ee68 keepAlive: 60
+2018-01-18 16:25:51	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"943486e944df0bd2d23b16292149ee68","brokerUrl":"127.0.0.1:1995"}   brokerID = 943486e944df0bd2d23b16292149ee68
+2018-01-18 16:28:40	ERROR	client.go	:read packet err: EOF   brokerID = 33b757f8ba1d0ce0220dead8550af217
+2018-01-18 16:28:40	INFO	client.go	:client close with brokerID = 33b757f8ba1d0ce0220dead8550af217
+2018-01-18 16:28:40	INFO	client.go	:client close remove 33b757f8ba1d0ce0220dead8550af217
+2018-01-18 16:28:43	ERROR	client.go	:read packet err: EOF   brokerID = 22061dbb68ae427d479669515f8e5106
+2018-01-18 16:28:43	INFO	client.go	:client close with brokerID = 22061dbb68ae427d479669515f8e5106
+2018-01-18 16:28:43	INFO	client.go	:client close remove 22061dbb68ae427d479669515f8e5106
+2018-01-18 16:28:44	ERROR	client.go	:read packet err: EOF   brokerID = 943486e944df0bd2d23b16292149ee68
+2018-01-18 16:28:44	INFO	client.go	:client close with brokerID = 943486e944df0bd2d23b16292149ee68
+2018-01-18 16:28:44	INFO	client.go	:client close remove 943486e944df0bd2d23b16292149ee68
+2018-01-18 16:28:58	INFO	server.go	:receive conn from client , clientID = 24066f37d6910b8de51413a387566441 keepAlive: 60
+2018-01-18 16:28:58	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"24066f37d6910b8de51413a387566441","brokerUrl":"127.0.0.1:1993"}   brokerID = 24066f37d6910b8de51413a387566441
+2018-01-18 16:29:08	INFO	server.go	:receive conn from client , clientID = 9e9e7e565540ce329ce3510ed8099cf4 keepAlive: 60
+2018-01-18 16:29:08	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"9e9e7e565540ce329ce3510ed8099cf4","brokerUrl":"127.0.0.1:1994"}   brokerID = 9e9e7e565540ce329ce3510ed8099cf4
+2018-01-18 16:29:12	INFO	server.go	:receive conn from client , clientID = d893cf3ed8e8941745237eb0ba6537c1 keepAlive: 60
+2018-01-18 16:29:12	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"d893cf3ed8e8941745237eb0ba6537c1","brokerUrl":"127.0.0.1:1995"}   brokerID = d893cf3ed8e8941745237eb0ba6537c1
+2018-01-18 16:32:19	ERROR	client.go	:read packet err: EOF   brokerID = d893cf3ed8e8941745237eb0ba6537c1
+2018-01-18 16:32:19	INFO	client.go	:client close with brokerID = d893cf3ed8e8941745237eb0ba6537c1
+2018-01-18 16:32:19	INFO	client.go	:client close remove d893cf3ed8e8941745237eb0ba6537c1
+2018-01-18 16:32:23	ERROR	client.go	:read packet err: EOF   brokerID = 9e9e7e565540ce329ce3510ed8099cf4
+2018-01-18 16:32:23	INFO	client.go	:client close with brokerID = 9e9e7e565540ce329ce3510ed8099cf4
+2018-01-18 16:32:23	INFO	client.go	:client close remove 9e9e7e565540ce329ce3510ed8099cf4
+2018-01-18 16:32:26	ERROR	client.go	:read packet err: EOF   brokerID = 24066f37d6910b8de51413a387566441
+2018-01-18 16:32:26	INFO	client.go	:client close with brokerID = 24066f37d6910b8de51413a387566441
+2018-01-18 16:32:26	INFO	client.go	:client close remove 24066f37d6910b8de51413a387566441
+2018-01-18 16:33:05	INFO	server.go	:receive conn from client , clientID = 228f106630671fb1fdf348083ba2a343 keepAlive: 60
+2018-01-18 16:33:05	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"228f106630671fb1fdf348083ba2a343","brokerUrl":"127.0.0.1:1993"}   brokerID = 228f106630671fb1fdf348083ba2a343
+2018-01-18 16:33:10	INFO	server.go	:receive conn from client , clientID = 89321a3cc9199031b569601b3b82608b keepAlive: 60
+2018-01-18 16:33:10	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"89321a3cc9199031b569601b3b82608b","brokerUrl":"127.0.0.1:1994"}   brokerID = 89321a3cc9199031b569601b3b82608b
+2018-01-18 16:35:35	ERROR	client.go	:read packet err: EOF   brokerID = 89321a3cc9199031b569601b3b82608b
+2018-01-18 16:35:35	INFO	client.go	:client close with brokerID = 89321a3cc9199031b569601b3b82608b
+2018-01-18 16:35:35	INFO	client.go	:client close remove 89321a3cc9199031b569601b3b82608b
+2018-01-18 16:35:40	ERROR	client.go	:read packet err: EOF   brokerID = 228f106630671fb1fdf348083ba2a343
+2018-01-18 16:35:40	INFO	client.go	:client close with brokerID = 228f106630671fb1fdf348083ba2a343
+2018-01-18 16:35:40	INFO	client.go	:client close remove 228f106630671fb1fdf348083ba2a343
+2018-01-18 16:35:49	INFO	server.go	:receive conn from client , clientID = 7957adde5a05c7407def2b3ff3c5209c keepAlive: 60
+2018-01-18 16:35:49	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"7957adde5a05c7407def2b3ff3c5209c","brokerUrl":"127.0.0.1:1993"}   brokerID = 7957adde5a05c7407def2b3ff3c5209c
+2018-01-18 16:35:54	INFO	server.go	:receive conn from client , clientID = ea992d2c10d433829f92f84bab292984 keepAlive: 60
+2018-01-18 16:35:54	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"ea992d2c10d433829f92f84bab292984","brokerUrl":"127.0.0.1:1994"}   brokerID = ea992d2c10d433829f92f84bab292984
+2018-01-18 16:45:29	ERROR	client.go	:read packet err: EOF   brokerID = ea992d2c10d433829f92f84bab292984
+2018-01-18 16:45:29	INFO	client.go	:client close with brokerID = ea992d2c10d433829f92f84bab292984
+2018-01-18 16:45:29	INFO	client.go	:client close remove ea992d2c10d433829f92f84bab292984
+2018-01-18 16:45:31	ERROR	client.go	:read packet err: EOF   brokerID = 7957adde5a05c7407def2b3ff3c5209c
+2018-01-18 16:45:31	INFO	client.go	:client close with brokerID = 7957adde5a05c7407def2b3ff3c5209c
+2018-01-18 16:45:31	INFO	client.go	:client close remove 7957adde5a05c7407def2b3ff3c5209c
+2018-01-18 16:45:52	INFO	server.go	:receive conn from client , clientID = 19e2990dafd8cf9db9c214cf18385237 keepAlive: 60
+2018-01-18 16:45:52	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"19e2990dafd8cf9db9c214cf18385237","brokerUrl":"127.0.0.1:1993"}   brokerID = 19e2990dafd8cf9db9c214cf18385237
+2018-01-18 16:45:56	INFO	server.go	:receive conn from client , clientID = f085306c99bd26e63dff434e074119a5 keepAlive: 60
+2018-01-18 16:45:56	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"f085306c99bd26e63dff434e074119a5","brokerUrl":"127.0.0.1:1994"}   brokerID = f085306c99bd26e63dff434e074119a5
+2018-01-18 16:46:30	ERROR	client.go	:read packet err: EOF   brokerID = f085306c99bd26e63dff434e074119a5
+2018-01-18 16:46:30	INFO	client.go	:client close with brokerID = f085306c99bd26e63dff434e074119a5
+2018-01-18 16:46:30	INFO	client.go	:client close remove f085306c99bd26e63dff434e074119a5
+2018-01-18 16:46:31	ERROR	client.go	:read packet err: EOF   brokerID = 19e2990dafd8cf9db9c214cf18385237
+2018-01-18 16:46:31	INFO	client.go	:client close with brokerID = 19e2990dafd8cf9db9c214cf18385237
+2018-01-18 16:46:31	INFO	client.go	:client close remove 19e2990dafd8cf9db9c214cf18385237
+2018-01-18 16:46:45	INFO	server.go	:receive conn from client , clientID = a9435cd8422e697da337a008075cb603 keepAlive: 60
+2018-01-18 16:46:45	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"a9435cd8422e697da337a008075cb603","brokerUrl":"127.0.0.1:1993"}   brokerID = a9435cd8422e697da337a008075cb603
+2018-01-18 16:46:51	INFO	server.go	:receive conn from client , clientID = 7e3cae6b277db3c879da933bca67f599 keepAlive: 60
+2018-01-18 16:46:51	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"7e3cae6b277db3c879da933bca67f599","brokerUrl":"127.0.0.1:1994"}   brokerID = 7e3cae6b277db3c879da933bca67f599
+2018-01-18 16:46:55	INFO	server.go	:receive conn from client , clientID = fb21d9c08acb1c4f2f18169a62500cd8 keepAlive: 60
+2018-01-18 16:46:55	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"fb21d9c08acb1c4f2f18169a62500cd8","brokerUrl":"127.0.0.1:1995"}   brokerID = fb21d9c08acb1c4f2f18169a62500cd8
+2018-01-18 16:48:10	ERROR	client.go	:read packet err: EOF   brokerID = fb21d9c08acb1c4f2f18169a62500cd8
+2018-01-18 16:48:10	INFO	client.go	:client close with brokerID = fb21d9c08acb1c4f2f18169a62500cd8
+2018-01-18 16:48:10	INFO	client.go	:client close remove fb21d9c08acb1c4f2f18169a62500cd8
+2018-01-18 16:48:40	ERROR	client.go	:read packet err: EOF   brokerID = a9435cd8422e697da337a008075cb603
+2018-01-18 16:48:40	INFO	client.go	:client close with brokerID = a9435cd8422e697da337a008075cb603
+2018-01-18 16:48:40	INFO	client.go	:client close remove a9435cd8422e697da337a008075cb603
+2018-01-18 16:48:41	ERROR	client.go	:read packet err: EOF   brokerID = 7e3cae6b277db3c879da933bca67f599
+2018-01-18 16:48:41	INFO	client.go	:client close with brokerID = 7e3cae6b277db3c879da933bca67f599
+2018-01-18 16:48:41	INFO	client.go	:client close remove 7e3cae6b277db3c879da933bca67f599
+2018-01-18 16:49:10	INFO	server.go	:receive conn from client , clientID = 34e9732919645121c704137b9be59cdb keepAlive: 60
+2018-01-18 16:49:10	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"34e9732919645121c704137b9be59cdb","brokerUrl":"127.0.0.1:1993"}   brokerID = 34e9732919645121c704137b9be59cdb
+2018-01-18 16:49:15	INFO	server.go	:receive conn from client , clientID = 7fc7b50a4097e5534a7f3a8069f68774 keepAlive: 60
+2018-01-18 16:49:15	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"7fc7b50a4097e5534a7f3a8069f68774","brokerUrl":"127.0.0.1:1994"}   brokerID = 7fc7b50a4097e5534a7f3a8069f68774
+2018-01-18 16:49:18	INFO	server.go	:receive conn from client , clientID = 232e4bdf6e9e86539a0f896da63dd0d3 keepAlive: 60
+2018-01-18 16:49:18	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"232e4bdf6e9e86539a0f896da63dd0d3","brokerUrl":"127.0.0.1:1995"}   brokerID = 232e4bdf6e9e86539a0f896da63dd0d3
+2018-01-18 16:50:01	ERROR	client.go	:read packet err: EOF   brokerID = 7fc7b50a4097e5534a7f3a8069f68774
+2018-01-18 16:50:01	INFO	client.go	:client close with brokerID = 7fc7b50a4097e5534a7f3a8069f68774
+2018-01-18 16:50:01	INFO	client.go	:client close remove 7fc7b50a4097e5534a7f3a8069f68774
+2018-01-18 16:50:02	ERROR	client.go	:read packet err: EOF   brokerID = 232e4bdf6e9e86539a0f896da63dd0d3
+2018-01-18 16:50:02	INFO	client.go	:client close with brokerID = 232e4bdf6e9e86539a0f896da63dd0d3
+2018-01-18 16:50:02	INFO	client.go	:client close remove 232e4bdf6e9e86539a0f896da63dd0d3
+2018-01-18 16:50:04	ERROR	client.go	:read packet err: EOF   brokerID = 34e9732919645121c704137b9be59cdb
+2018-01-18 16:50:04	INFO	client.go	:client close with brokerID = 34e9732919645121c704137b9be59cdb
+2018-01-18 16:50:04	INFO	client.go	:client close remove 34e9732919645121c704137b9be59cdb
+2018-01-18 16:50:09	INFO	server.go	:receive conn from client , clientID = dc5c739eba92ddd7288315d06f9f62c1 keepAlive: 60
+2018-01-18 16:50:09	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"dc5c739eba92ddd7288315d06f9f62c1","brokerUrl":"127.0.0.1:1993"}   brokerID = dc5c739eba92ddd7288315d06f9f62c1
+2018-01-18 16:50:15	INFO	server.go	:receive conn from client , clientID = 15c04853e436798527582686d0878654 keepAlive: 60
+2018-01-18 16:50:15	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"15c04853e436798527582686d0878654","brokerUrl":"127.0.0.1:1994"}   brokerID = 15c04853e436798527582686d0878654
+2018-01-18 16:50:23	INFO	server.go	:receive conn from client , clientID = 337973cb94a28074391381993871ba0d keepAlive: 60
+2018-01-18 16:50:23	DEBUG	message.go	:recv broker info: PUBLISH: dup: false qos: 0 retain: false rLength: 94 topicName: broker001001info MessageID: 0 payload: {"brokerID":"337973cb94a28074391381993871ba0d","brokerUrl":"127.0.0.1:1995"}   brokerID = 337973cb94a28074391381993871ba0d
+2018-01-18 16:51:02	ERROR	client.go	:read packet err: EOF   brokerID = dc5c739eba92ddd7288315d06f9f62c1
+2018-01-18 16:51:02	INFO	client.go	:client close with brokerID = dc5c739eba92ddd7288315d06f9f62c1
+2018-01-18 16:51:02	INFO	client.go	:client close remove dc5c739eba92ddd7288315d06f9f62c1
+2018-01-18 16:57:21	INFO	server.go	:start listener on 0.0.0.0:9888
