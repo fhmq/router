@@ -29,7 +29,7 @@ func init() {
 }
 func main() {
 	port := viper.GetString("service.port")
-	topic := viper.GetString("service.infoTopic")
+	topic := "broker000100101info"
 	srv := server.NewServer(port, topic)
 	srv.Start()
 }

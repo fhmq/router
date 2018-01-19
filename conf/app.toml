@@ -1,3 +1,2 @@
 [service]
 port = "9888"
-infoTopic = "broker001001info"
