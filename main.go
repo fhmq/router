@@ -1,7 +1,7 @@
 package main
 
 import (
-	"router/server"
+	"github.com/fhmq/router/server"
 
 	log "github.com/cihub/seelog"
 	"github.com/spf13/viper"
